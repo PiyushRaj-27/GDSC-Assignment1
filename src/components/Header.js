@@ -45,8 +45,8 @@ function Header(props){
     "title": "Samsung Universe 9",
     "description":
       "Samsung's new variant which goes beyond Galaxy to the Universe",
-   " price": 1249,
-   " discountPercentage": 15.46,
+   "price": 1249,
+   "discountPercentage": 15.46,
     "rating": 4.09,
     "stock": 36,
     "brand": "Samsung",
@@ -62,7 +62,7 @@ function Header(props){
     "discountPercentage": 17.91,
     "rating": 4.3,
     "stock": 123,
-   " brand": "OPPO",
+   "brand": "OPPO",
     "category": "smartphones",
     "thumbnail": "https://dummyjson.com/image/i/products/4/thumbnail.jpg",
     "images": [
@@ -82,10 +82,10 @@ function Header(props){
     "discountPercentage": 10.58,
     "rating": 4.09,
     "stock": 32,
-   " brand": "Huawei",
-   " category": "smartphones",
+   "brand": "Huawei",
+   "category": "smartphones",
     "thumbnail": "https://dummyjson.com/image/i/products/5/thumbnail.jpg",
-   " images": [
+   "images": [
       "https://dummyjson.com/image/i/products/5/1.jpg",
       "https://dummyjson.com/image/i/products/5/2.jpg",
       "https://dummyjson.com/image/i/products/5/3.jpg"
@@ -118,11 +118,11 @@ function Header(props){
     "price": 1499,
     "discountPercentage": 4.15,
     "rating": 4.25,
-   " stock": 50,
+   "stock": 50,
     "brand": "Samsung",
-   " category": "laptops",
-   " thumbnail": "https://dummyjson.com/image/i/products/7/thumbnail.jpg",
-   " images": [
+   "category": "laptops",
+   "thumbnail": "https://dummyjson.com/image/i/products/7/thumbnail.jpg",
+   "images": [
       "https://dummyjson.com/image/i/products/7/1.jpg",
       "https://dummyjson.com/image/i/products/7/2.jpg",
       "https://dummyjson.com/image/i/products/7/3.jpg",
@@ -135,7 +135,7 @@ function Header(props){
     "description":
       "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
     "price": 1499,
-   " discountPercentage": 10.23,
+   "discountPercentage": 10.23,
     "rating": 4.43,
     "stock": 68,
     "brand": "Microsoft Surface",
