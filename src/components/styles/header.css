@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    cursor: default;
+}
+
+.searchBar{
+    padding: 20px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #8AAAE5;
+}
+.searchItem{
+    padding: 15px;
+    width: 40vw;
+    font-size: 15px;
+    border: 0px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    margin: 10px;
+}
+.searchButton{
+    padding: 15px;
+    border: 0px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: aliceblue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    transition: 0.5s ease-in-out;
+    color: rgb(60, 60, 60);
+}
+.searchButton:hover{
+    background-color: rgb(210, 232, 251);
+}
